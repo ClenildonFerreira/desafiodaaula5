@@ -1,4 +1,4 @@
-# Disafio da Aula5
+# Desafio da Aula5
 
 ### Desafio Proposto pelo professor.
 ##### Tela de cadastro de usuários (nome, email, cpf, senha, idioma) com as restrições:
